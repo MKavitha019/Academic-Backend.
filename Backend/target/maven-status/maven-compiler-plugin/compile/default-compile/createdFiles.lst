@@ -1,0 +1,8 @@
+com\aops\AopsApplication.class
+com\aops\repository\UserRepository.class
+com\aops\service\AuthService.class
+com\aops\model\User.class
+com\aops\model\Student.class
+com\aops\controller\AuthController.class
+com\aops\controller\StudentController.class
+com\aops\repository\StudentRepository.class
